@@ -1,5 +1,7 @@
 # pobpack-node [![NPM version][npm-image]][npm-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/christophehurpeau/pobpack-node.svg)](https://greenkeeper.io/)
+
 Build and run node projects with webpack.
 
 [![Dependency ci Status][dependencyci-image]][dependencyci-url]
